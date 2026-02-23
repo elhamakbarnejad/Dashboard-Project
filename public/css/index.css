@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-IRANSansX: "IRANSansX";
+}
+@utility flex-center {
+  @apply flex items-center justify-center;
+}
+@utility primary-border {
+  @apply border border-zinc-300;
+}
+@utility primary-p-text {
+  @apply text-zinc-600 text-xs;
+}
+@utility primary-transition {
+  @apply transition-all duration-150;
+}
+body {
+  @apply font-IRANSansX! overflow-x-hidden!;
+}
