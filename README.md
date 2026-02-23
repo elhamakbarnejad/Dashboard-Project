@@ -47,6 +47,7 @@ npm run dev
 Open in browser:
 
 http://localhost:5173
+
 📁 Project Structure
 
 The project follows a modular and feature-based structure to ensure scalability, maintainability, and clean code organization.
