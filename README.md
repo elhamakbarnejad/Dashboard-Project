@@ -1,22 +1,60 @@
-⭐Dashboard Project
+⭐ Dashboard Project
 
-➡️ bash
-npm install
-npm run dev
+A modern and responsive admin dashboard built with React and Vite, featuring authentication, data tables with pagination, and interactive charts.
 
-⚠️🔴⚠️ Demo Login
+⚠️🔐⚠️ Demo Login
 Username: emilys
 Password: emilyspass
 
-📁 Project Structure
+🚀 Tech Stack
+
 React + Vite
-TailwindCSS
+
+Tailwind CSS
+
 React Router v6
-Recharts for data visualization
+
+Recharts (Data Visualization)
+
+DummyJSON API
 
 ✨ Features
-Authentication with DummyJSON
-Responsive dashboard
-Dark/Light mode
-Product & User tables with pagination
-Charts for data analysis
+
+Authentication using DummyJSON API
+
+Responsive dashboard layout
+
+Dark / Light mode support
+
+Products & Users tables with pagination
+
+Interactive charts for data analysis
+
+Reusable and modular component structure
+
+📦 Installation & Setup
+
+Install dependencies:
+
+npm install
+
+Run the development server:
+
+npm run dev
+
+Open in browser:
+
+http://localhost:5173
+📁 Project Structure
+
+The project follows a modular and feature-based structure to ensure scalability, maintainability, and clean code organization.
+
+📌 Notes
+
+Fully responsive across different screen sizes
+
+Clean UI built with utility-first styling (Tailwind CSS)
+
+Designed with reusable components for tables, pagination, and layout
+
+Developed by Elham Akbarnejad
