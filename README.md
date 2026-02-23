@@ -3,7 +3,9 @@
 A modern and responsive admin dashboard built with React and Vite, featuring authentication, data tables with pagination, and interactive charts.
 
 ⚠️🔐⚠️ Demo Login
+
 Username: emilys
+
 Password: emilyspass
 
 🚀 Tech Stack
